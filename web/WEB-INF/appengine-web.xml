@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <application>save-the-fish</application>
+    <version>1</version>
+
+    <system-properties>
+        <property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
+    </system-properties>
+
+    <static-files>
+        <include path="css/**.css" />
+        <include path="js/**.js" />
+        <include path="content/**.json" />
+    </static-files>
+
+</appengine-web-app>

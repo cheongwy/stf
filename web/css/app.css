@@ -1,0 +1,36 @@
+.species span, #content-header span {
+    position: absolute;
+    top: 11px;
+    right: 10px;
+    width: 45%;
+    display: block;
+}
+
+.species label {
+    overflow: hidden;
+    width: 50%;
+    display: block;
+}
+
+#cat-header, #content-header, #content-header span {
+  background-color: #eee;
+  color: #999;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
+  font-weight: bold;
+}
+
+.avoid {
+    color: red;
+}
+
+.recommend {
+    color: green;
+}
+
+.think-twice {
+    color: orange;
+}
+
+.about p {
+    padding: 10px;
+}

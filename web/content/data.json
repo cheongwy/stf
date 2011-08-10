@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "cat" : {
+                "cls": "recommend",
+                "name" : "Recommend",
+                "items" : [
+                    {"species": "Abalone", "origin": "Australia"},
+                    {"species": "Alaska Pollock", "origin": "Alaska"},
+                    {"species": "Asiatic Hard Clam", "origin": "Vietnam (Ben Tre)"},
+                    {"species": "Chilean Seabass", "origin": "UK (South Georgia)"},
+                    {"species": "Coral Trout", "origin": "Australia"},
+                    {"species": "Geoduck", "origin": "North America"},
+                    {"species": "Green Lipped Mussel", "origin": "New Zealand"},
+                    {"species": "Mud Crab", "origin": "India, Sri Lanka"},
+                    {"species": "Oyster", "origin": "Canada, China"},
+                    {"species": "Pacific Salmon", "origin": "Alaska"},
+                    {"species": "Rock Lobster", "origin": "Western Australia"},
+                    {"species": "Scallop (Asian moon)", "origin": "China"},
+                    {"species": "Squid (Bigfin reef)", "origin": "Malaysia"}
+                ]
+            }
+        },
+        {
+            "cat" : {
+                "cls": "think-twice",
+                "name" : "Think twice",
+                "items" : [
+                    {"species": "Abalone", "origin": "China"},
+                    {"species": "Atlantic Salmon", "origin": "Norway, Scotland"},
+                    {"species": "Clam (Asiatic hard, Beach, Venus, White)", "origin": "Malaysia"},
+                    {"species": "Four Finger Thread Fin", "origin": "Singapore"},
+                    {"species": "Longtail Tuna", "origin": "Malaysia"},
+                    {"species": "Milkfish", "origin": "Singapore"},
+                    {"species": "Mud spiny Lobster", "origin": "Malaysia (Sabah)"},
+                    {"species": "Narrow-barred Spanish Mackerel", "origin": "Indonesia"},
+                    {"species": "Orange Mud Crab", "origin": "Indonesia"},
+                    {"species": "Seabass", "origin": "Singapore"},
+                    {"species": "Silver Pomfret", "origin": "South China Sea"},
+                    {"species": "Squid (Mitre, Swordtip, Long barrel)", "origin": "Indonesia"},
+                    {"species": "Yellow banded scad", "origin": "Malaysia"},
+                    {"species": "Yellowtail fusilier", "origin": "Malaysia"}
+                ]
+            }
+        },
+        {
+            "cat": {
+                "cls": "avoid",
+                "name" : "Avoid",
+                "items" : [
+                    {"species": "Orange-spotted grouper", "origin": "Indonesia"},
+                    {"species": "Polkadot grouper", "origin": "South East Asia"},
+                    {"species": "Redspine Threadfin Bream", "origin": "Indonesia, South China Sea"},
+                    {"species": "Tiger Prawn", "origin": "Indonesia, Thailand"},
+                    {"species": "Unicorn Leather Jacket", "origin": "South China Sea"},
+                    {"species": "Yellowtail Fusilier", "origin": "Indonesia"},
+                    {"species": "Yellowtail scad", "origin": "Thailand"},
+                    {"species": "Black Pomfret", "origin": "Indonesia"},
+                    {"species": "Bluefin Tuna", "origin": "Global"},
+                    {"species": "Brown-marbled grouper", "origin": "Indonesia"},
+                    {"species": "Chilean Seabass", "origin": "Global"},
+                    {"species": "Coral Trout", "origin": "South East Asia"},
+                    {"species": "Crimson Snapper", "origin": "Indonesia"},
+                    {"species": "Flower Crab", "origin": "South China Sea"},
+                    {"species": "Gold-banded jobfish", "origin": "Indonesia"},
+                    {"species": "Grey Prawn", "origin": "Indonesia"}
+                ]
+            }
+        }
+    ]
+}
